@@ -45,6 +45,8 @@ echo "Current directory"
 pwd
 ls
 
+echo "Test"
+ls -lah OneLife/gameSource
 
 echo "Copying items from build into directories"
 
